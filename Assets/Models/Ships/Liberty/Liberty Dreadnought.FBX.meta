@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 65b145b09528c634c9c4782732920146
+timeCreated: 1457498448
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Baydoor01
+    100002: Baydoor02
+    100004: Leaf01_d1
+    100006: Leaf02_d1
+    100008: Leaf03_d1
+    100010: Leaf04_d1
+    100012: Leaf05_d1
+    100014: Leaf06_d1
+    100016: Leaf07_d1
+    100018: Leaf08_d1
+    100020: Li_bottom
+    100022: Li_cntrltwr
+    100024: Li_dreadnought
+    100026: Li_engine
+    100028: Li_frnt
+    100030: Li_interior
+    100032: Li_nose
+    100034: Li_port_skid
+    100036: Li_reactor
+    100038: Li_reactor_core
+    100040: Li_rear
+    100042: Li_starboard_skid
+    100044: //RootNode
+    400000: Baydoor01
+    400002: Baydoor02
+    400004: Leaf01_d1
+    400006: Leaf02_d1
+    400008: Leaf03_d1
+    400010: Leaf04_d1
+    400012: Leaf05_d1
+    400014: Leaf06_d1
+    400016: Leaf07_d1
+    400018: Leaf08_d1
+    400020: Li_bottom
+    400022: Li_cntrltwr
+    400024: Li_dreadnought
+    400026: Li_engine
+    400028: Li_frnt
+    400030: Li_interior
+    400032: Li_nose
+    400034: Li_port_skid
+    400036: Li_reactor
+    400038: Li_reactor_core
+    400040: Li_rear
+    400042: Li_starboard_skid
+    400044: //RootNode
+    2300000: Baydoor01
+    2300002: Baydoor02
+    2300004: Leaf01_d1
+    2300006: Leaf02_d1
+    2300008: Leaf03_d1
+    2300010: Leaf04_d1
+    2300012: Leaf05_d1
+    2300014: Leaf06_d1
+    2300016: Leaf07_d1
+    2300018: Leaf08_d1
+    2300020: Li_bottom
+    2300022: Li_cntrltwr
+    2300024: Li_dreadnought
+    2300026: Li_engine
+    2300028: Li_frnt
+    2300030: Li_interior
+    2300032: Li_nose
+    2300034: Li_port_skid
+    2300036: Li_reactor
+    2300038: Li_reactor_core
+    2300040: Li_rear
+    2300042: Li_starboard_skid
+    3300000: Baydoor01
+    3300002: Baydoor02
+    3300004: Leaf01_d1
+    3300006: Leaf02_d1
+    3300008: Leaf03_d1
+    3300010: Leaf04_d1
+    3300012: Leaf05_d1
+    3300014: Leaf06_d1
+    3300016: Leaf07_d1
+    3300018: Leaf08_d1
+    3300020: Li_bottom
+    3300022: Li_cntrltwr
+    3300024: Li_dreadnought
+    3300026: Li_engine
+    3300028: Li_frnt
+    3300030: Li_interior
+    3300032: Li_nose
+    3300034: Li_port_skid
+    3300036: Li_reactor
+    3300038: Li_reactor_core
+    3300040: Li_rear
+    3300042: Li_starboard_skid
+    4300000: Li_dreadnought
+    4300002: Li_starboard_skid
+    4300004: Li_rear
+    4300006: Li_reactor
+    4300008: Li_reactor_core
+    4300010: Li_port_skid
+    4300012: Li_nose
+    4300014: Li_interior
+    4300016: Li_frnt
+    4300018: Li_engine
+    4300020: Li_cntrltwr
+    4300022: Li_bottom
+    4300024: Leaf08_d1
+    4300026: Leaf07_d1
+    4300028: Leaf06_d1
+    4300030: Leaf05_d1
+    4300032: Leaf04_d1
+    4300034: Leaf03_d1
+    4300036: Leaf02_d1
+    4300038: Leaf01_d1
+    4300040: Baydoor02
+    4300042: Baydoor01
+    6400000: Baydoor01
+    6400002: Baydoor02
+    6400004: Leaf01_d1
+    6400006: Leaf02_d1
+    6400008: Leaf03_d1
+    6400010: Leaf04_d1
+    6400012: Leaf05_d1
+    6400014: Leaf06_d1
+    6400016: Leaf07_d1
+    6400018: Leaf08_d1
+    6400020: Li_bottom
+    6400022: Li_cntrltwr
+    6400024: Li_dreadnought
+    6400026: Li_engine
+    6400028: Li_frnt
+    6400030: Li_interior
+    6400032: Li_nose
+    6400034: Li_port_skid
+    6400036: Li_reactor
+    6400038: Li_reactor_core
+    6400040: Li_rear
+    6400042: Li_starboard_skid
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

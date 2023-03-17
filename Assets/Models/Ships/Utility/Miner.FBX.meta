@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: ee50328ef07bf6b4995db76fe4e11f2b
+timeCreated: 1457580686
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cntrl_twr
+    100002: //RootNode
+    100004: mining_rear
+    100006: mining_ship
+    100008: mining_shuttle
+    100010: port_arm1
+    100012: port_arm2
+    100014: port_arm3
+    100016: port_frnt_eng
+    100018: port_reactr
+    100020: port_rear_eng
+    100022: star_arm
+    100024: star_arm2
+    100026: star_arm3
+    100028: star_frnt_eng
+    100030: star_reactr
+    100032: star_rear_eng
+    400000: cntrl_twr
+    400002: //RootNode
+    400004: mining_rear
+    400006: mining_ship
+    400008: mining_shuttle
+    400010: port_arm1
+    400012: port_arm2
+    400014: port_arm3
+    400016: port_frnt_eng
+    400018: port_reactr
+    400020: port_rear_eng
+    400022: star_arm
+    400024: star_arm2
+    400026: star_arm3
+    400028: star_frnt_eng
+    400030: star_reactr
+    400032: star_rear_eng
+    2300000: cntrl_twr
+    2300002: mining_rear
+    2300004: mining_ship
+    2300006: mining_shuttle
+    2300008: port_arm1
+    2300010: port_arm2
+    2300012: port_arm3
+    2300014: port_frnt_eng
+    2300016: port_reactr
+    2300018: port_rear_eng
+    2300020: star_arm
+    2300022: star_arm2
+    2300024: star_arm3
+    2300026: star_frnt_eng
+    2300028: star_reactr
+    2300030: star_rear_eng
+    3300000: cntrl_twr
+    3300002: mining_rear
+    3300004: mining_ship
+    3300006: mining_shuttle
+    3300008: port_arm1
+    3300010: port_arm2
+    3300012: port_arm3
+    3300014: port_frnt_eng
+    3300016: port_reactr
+    3300018: port_rear_eng
+    3300020: star_arm
+    3300022: star_arm2
+    3300024: star_arm3
+    3300026: star_frnt_eng
+    3300028: star_reactr
+    3300030: star_rear_eng
+    4300000: mining_ship
+    4300002: star_rear_eng
+    4300004: star_reactr
+    4300006: star_frnt_eng
+    4300008: star_arm
+    4300010: star_arm3
+    4300012: star_arm2
+    4300014: port_rear_eng
+    4300016: port_reactr
+    4300018: port_frnt_eng
+    4300020: port_arm3
+    4300022: port_arm2
+    4300024: port_arm1
+    4300026: mining_shuttle
+    4300028: mining_rear
+    4300030: cntrl_twr
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

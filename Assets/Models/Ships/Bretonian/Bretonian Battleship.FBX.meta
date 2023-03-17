@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 0d15407dd52caaa4da15e1f30f960b83
+timeCreated: 1457657532
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: baypoly
+    100002: Br_Battleship
+    100004: Br_cntrl_twr
+    100006: Br_engine
+    100008: Br_frnt
+    100010: Br_main
+    100012: Br_port_baydoor
+    100014: Br_port_gen
+    100016: Br_star_baydoor
+    100018: Br_starboard_gen
+    100020: Br_tail
+    100022: Br_thruster
+    100024: //RootNode
+    400000: baypoly
+    400002: Br_Battleship
+    400004: Br_cntrl_twr
+    400006: Br_engine
+    400008: Br_frnt
+    400010: Br_main
+    400012: Br_port_baydoor
+    400014: Br_port_gen
+    400016: Br_star_baydoor
+    400018: Br_starboard_gen
+    400020: Br_tail
+    400022: Br_thruster
+    400024: //RootNode
+    2300000: baypoly
+    2300002: Br_Battleship
+    2300004: Br_cntrl_twr
+    2300006: Br_engine
+    2300008: Br_frnt
+    2300010: Br_main
+    2300012: Br_port_baydoor
+    2300014: Br_port_gen
+    2300016: Br_star_baydoor
+    2300018: Br_starboard_gen
+    2300020: Br_tail
+    2300022: Br_thruster
+    3300000: baypoly
+    3300002: Br_Battleship
+    3300004: Br_cntrl_twr
+    3300006: Br_engine
+    3300008: Br_frnt
+    3300010: Br_main
+    3300012: Br_port_baydoor
+    3300014: Br_port_gen
+    3300016: Br_star_baydoor
+    3300018: Br_starboard_gen
+    3300020: Br_tail
+    3300022: Br_thruster
+    4300000: Br_Battleship
+    4300002: Br_thruster
+    4300004: Br_tail
+    4300006: Br_star_baydoor
+    4300008: Br_starboard_gen
+    4300010: Br_port_gen
+    4300012: Br_port_baydoor
+    4300014: Br_main
+    4300016: Br_frnt
+    4300018: Br_engine
+    4300020: Br_cntrl_twr
+    4300022: baypoly
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

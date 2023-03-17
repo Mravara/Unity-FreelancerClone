@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: d77452d612b26c54a8c1f92e3d893ea1
+timeCreated: 1457583222
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cntrl_twr
+    100002: //RootNode
+    100004: mining_rear
+    100006: mining_ship_tuck
+    100008: mining_shuttle
+    100010: port_arm
+    100012: port_frnt_eng
+    100014: port_reactr
+    100016: port_rear_eng
+    100018: star_arm
+    100020: star_frnt_eng
+    100022: star_reactr
+    100024: star_rear_eng
+    400000: cntrl_twr
+    400002: //RootNode
+    400004: mining_rear
+    400006: mining_ship_tuck
+    400008: mining_shuttle
+    400010: port_arm
+    400012: port_frnt_eng
+    400014: port_reactr
+    400016: port_rear_eng
+    400018: star_arm
+    400020: star_frnt_eng
+    400022: star_reactr
+    400024: star_rear_eng
+    2300000: cntrl_twr
+    2300002: mining_rear
+    2300004: mining_ship_tuck
+    2300006: mining_shuttle
+    2300008: port_arm
+    2300010: port_frnt_eng
+    2300012: port_reactr
+    2300014: port_rear_eng
+    2300016: star_arm
+    2300018: star_frnt_eng
+    2300020: star_reactr
+    2300022: star_rear_eng
+    3300000: cntrl_twr
+    3300002: mining_rear
+    3300004: mining_ship_tuck
+    3300006: mining_shuttle
+    3300008: port_arm
+    3300010: port_frnt_eng
+    3300012: port_reactr
+    3300014: port_rear_eng
+    3300016: star_arm
+    3300018: star_frnt_eng
+    3300020: star_reactr
+    3300022: star_rear_eng
+    4300000: mining_ship_tuck
+    4300002: star_rear_eng
+    4300004: star_reactr
+    4300006: star_frnt_eng
+    4300008: star_arm
+    4300010: port_rear_eng
+    4300012: port_reactr
+    4300014: port_frnt_eng
+    4300016: port_arm
+    4300018: mining_shuttle
+    4300020: mining_rear
+    4300022: cntrl_twr
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

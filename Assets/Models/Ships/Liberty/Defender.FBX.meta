@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: 087a297d30d41fe47b5e346a1d462190
+timeCreated: 1457496106
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: baydoor01
+    100002: baydoor02
+    100004: //RootNode
+    100006: Li_elite
+    100008: Li_Engine01
+    100010: Li_Engine02
+    100012: Li_glass
+    100014: Li_port_wing
+    100016: Li_Spoiler
+    100018: Li_star_wing
+    400000: baydoor01
+    400002: baydoor02
+    400004: //RootNode
+    400006: Li_elite
+    400008: Li_Engine01
+    400010: Li_Engine02
+    400012: Li_glass
+    400014: Li_port_wing
+    400016: Li_Spoiler
+    400018: Li_star_wing
+    2300000: baydoor01
+    2300002: baydoor02
+    2300004: Li_elite
+    2300006: Li_Engine01
+    2300008: Li_Engine02
+    2300010: Li_glass
+    2300012: Li_port_wing
+    2300014: Li_Spoiler
+    2300016: Li_star_wing
+    3300000: baydoor01
+    3300002: baydoor02
+    3300004: Li_elite
+    3300006: Li_Engine01
+    3300008: Li_Engine02
+    3300010: Li_glass
+    3300012: Li_port_wing
+    3300014: Li_Spoiler
+    3300016: Li_star_wing
+    4300000: Li_elite
+    4300002: baydoor01
+    4300004: baydoor02
+    4300006: Li_star_wing
+    4300008: Li_Spoiler
+    4300010: Li_port_wing
+    4300012: Li_glass
+    4300014: Li_Engine02
+    4300016: Li_Engine01
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

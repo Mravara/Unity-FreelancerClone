@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 2206644f79460d44bbd8dee979a1dd30
+timeCreated: 1457893049
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: door1_a
+    100002: door1_b
+    100004: door1_poly
+    100006: door2_a
+    100008: door2_b
+    100010: door2_poly
+    100012: door3_a
+    100014: door3_b
+    100016: door3_poly
+    100018: door4_a
+    100020: door4_b
+    100022: door4_poly
+    100024: door5_a
+    100026: door5_b
+    100028: door5_poly
+    100030: door6_a
+    100032: door6_b
+    100034: door6_poly
+    100036: door7_a
+    100038: door7_b
+    100040: door7_poly
+    100042: door8_a
+    100044: door8_b
+    100046: door8_poly
+    100048: port
+    100050: //RootNode
+    400000: door1_a
+    400002: door1_b
+    400004: door1_poly
+    400006: door2_a
+    400008: door2_b
+    400010: door2_poly
+    400012: door3_a
+    400014: door3_b
+    400016: door3_poly
+    400018: door4_a
+    400020: door4_b
+    400022: door4_poly
+    400024: door5_a
+    400026: door5_b
+    400028: door5_poly
+    400030: door6_a
+    400032: door6_b
+    400034: door6_poly
+    400036: door7_a
+    400038: door7_b
+    400040: door7_poly
+    400042: door8_a
+    400044: door8_b
+    400046: door8_poly
+    400048: port
+    400050: //RootNode
+    2300000: door1_a
+    2300002: door1_b
+    2300004: door1_poly
+    2300006: door2_a
+    2300008: door2_b
+    2300010: door2_poly
+    2300012: door3_a
+    2300014: door3_b
+    2300016: door3_poly
+    2300018: door4_a
+    2300020: door4_b
+    2300022: door4_poly
+    2300024: door5_a
+    2300026: door5_b
+    2300028: door5_poly
+    2300030: door6_a
+    2300032: door6_b
+    2300034: door6_poly
+    2300036: door7_a
+    2300038: door7_b
+    2300040: door7_poly
+    2300042: door8_a
+    2300044: door8_b
+    2300046: door8_poly
+    2300048: port
+    3300000: door1_a
+    3300002: door1_b
+    3300004: door1_poly
+    3300006: door2_a
+    3300008: door2_b
+    3300010: door2_poly
+    3300012: door3_a
+    3300014: door3_b
+    3300016: door3_poly
+    3300018: door4_a
+    3300020: door4_b
+    3300022: door4_poly
+    3300024: door5_a
+    3300026: door5_b
+    3300028: door5_poly
+    3300030: door6_a
+    3300032: door6_b
+    3300034: door6_poly
+    3300036: door7_a
+    3300038: door7_b
+    3300040: door7_poly
+    3300042: door8_a
+    3300044: door8_b
+    3300046: door8_poly
+    3300048: port
+    4300000: port
+    4300002: door8_poly
+    4300004: door8_b
+    4300006: door8_a
+    4300008: door7_poly
+    4300010: door7_b
+    4300012: door7_a
+    4300014: door6_poly
+    4300016: door6_b
+    4300018: door6_a
+    4300020: door5_poly
+    4300022: door5_b
+    4300024: door5_a
+    4300026: door4_poly
+    4300028: door4_b
+    4300030: door4_a
+    4300032: door3_poly
+    4300034: door3_b
+    4300036: door3_a
+    4300038: door2_poly
+    4300040: door2_b
+    4300042: door2_a
+    4300044: door1_poly
+    4300046: door1_b
+    4300048: door1_a
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

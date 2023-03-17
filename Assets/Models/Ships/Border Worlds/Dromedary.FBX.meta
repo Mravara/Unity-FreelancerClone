@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: b1ad200e297447647bf37bb42b76d69b
+timeCreated: 1457575502
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: baydoor01
+    100002: baydoor02
+    100004: bw_freighter
+    100006: bw_glass
+    100008: bw_port_eng
+    100010: bw_port_wing
+    100012: bw_star_eng
+    100014: bw_star_wing
+    100016: //RootNode
+    400000: baydoor01
+    400002: baydoor02
+    400004: bw_freighter
+    400006: bw_glass
+    400008: bw_port_eng
+    400010: bw_port_wing
+    400012: bw_star_eng
+    400014: bw_star_wing
+    400016: //RootNode
+    2300000: baydoor01
+    2300002: baydoor02
+    2300004: bw_freighter
+    2300006: bw_glass
+    2300008: bw_port_eng
+    2300010: bw_port_wing
+    2300012: bw_star_eng
+    2300014: bw_star_wing
+    3300000: baydoor01
+    3300002: baydoor02
+    3300004: bw_freighter
+    3300006: bw_glass
+    3300008: bw_port_eng
+    3300010: bw_port_wing
+    3300012: bw_star_eng
+    3300014: bw_star_wing
+    4300000: bw_freighter
+    4300002: bw_star_wing
+    4300004: bw_star_eng
+    4300006: bw_port_wing
+    4300008: bw_port_eng
+    4300010: bw_glass
+    4300012: baydoor02
+    4300014: baydoor01
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

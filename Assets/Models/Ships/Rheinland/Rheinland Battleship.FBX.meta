@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: fc48760a4304aef47ad45e07075595d5
+timeCreated: 1457672620
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BAYDR_L1
+    100002: BAYDR_L2
+    100004: Rh_Battleship
+    100006: Rh_bay
+    100008: Rh_cntrl_twr
+    100010: Rh_engine
+    100012: Rh_frnt
+    100014: Rh_main
+    100016: Rh_midfrnt
+    100018: Rh_port_shield
+    100020: Rh_star_shield
+    100022: Rh_thruster
+    100024: //RootNode
+    400000: BAYDR_L1
+    400002: BAYDR_L2
+    400004: Rh_Battleship
+    400006: Rh_bay
+    400008: Rh_cntrl_twr
+    400010: Rh_engine
+    400012: Rh_frnt
+    400014: Rh_main
+    400016: Rh_midfrnt
+    400018: Rh_port_shield
+    400020: Rh_star_shield
+    400022: Rh_thruster
+    400024: //RootNode
+    2300000: BAYDR_L1
+    2300002: BAYDR_L2
+    2300004: Rh_Battleship
+    2300006: Rh_bay
+    2300008: Rh_cntrl_twr
+    2300010: Rh_engine
+    2300012: Rh_frnt
+    2300014: Rh_main
+    2300016: Rh_midfrnt
+    2300018: Rh_port_shield
+    2300020: Rh_star_shield
+    2300022: Rh_thruster
+    3300000: BAYDR_L1
+    3300002: BAYDR_L2
+    3300004: Rh_Battleship
+    3300006: Rh_bay
+    3300008: Rh_cntrl_twr
+    3300010: Rh_engine
+    3300012: Rh_frnt
+    3300014: Rh_main
+    3300016: Rh_midfrnt
+    3300018: Rh_port_shield
+    3300020: Rh_star_shield
+    3300022: Rh_thruster
+    4300000: Rh_Battleship
+    4300002: Rh_thruster
+    4300004: Rh_star_shield
+    4300006: Rh_port_shield
+    4300008: Rh_midfrnt
+    4300010: Rh_main
+    4300012: Rh_frnt
+    4300014: Rh_engine
+    4300016: Rh_cntrl_twr
+    4300018: Rh_bay
+    4300020: BAYDR_L2
+    4300022: BAYDR_L1
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

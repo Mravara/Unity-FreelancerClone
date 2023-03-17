@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: ebc3f2d6d3ccff0498496ba95a676509
+timeCreated: 1457670375
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: baydoor_a
+    100002: baydoor_b
+    100004: Ku_battleship
+    100006: Ku_cntrltwr
+    100008: Ku_engine
+    100010: Ku_front
+    100012: Ku_nose
+    100014: Ku_port_engine01
+    100016: Ku_port_engine02
+    100018: Ku_port_fan
+    100020: Ku_port_spike
+    100022: Ku_port_spikemount
+    100024: Ku_rear
+    100026: Ku_star_engine01
+    100028: Ku_star_engine02
+    100030: Ku_star_fan
+    100032: Ku_star_spike
+    100034: Ku_star_spikemount
+    100036: //RootNode
+    400000: baydoor_a
+    400002: baydoor_b
+    400004: Ku_battleship
+    400006: Ku_cntrltwr
+    400008: Ku_engine
+    400010: Ku_front
+    400012: Ku_nose
+    400014: Ku_port_engine01
+    400016: Ku_port_engine02
+    400018: Ku_port_fan
+    400020: Ku_port_spike
+    400022: Ku_port_spikemount
+    400024: Ku_rear
+    400026: Ku_star_engine01
+    400028: Ku_star_engine02
+    400030: Ku_star_fan
+    400032: Ku_star_spike
+    400034: Ku_star_spikemount
+    400036: //RootNode
+    2300000: baydoor_a
+    2300002: baydoor_b
+    2300004: Ku_battleship
+    2300006: Ku_cntrltwr
+    2300008: Ku_engine
+    2300010: Ku_front
+    2300012: Ku_nose
+    2300014: Ku_port_engine01
+    2300016: Ku_port_engine02
+    2300018: Ku_port_fan
+    2300020: Ku_port_spike
+    2300022: Ku_port_spikemount
+    2300024: Ku_rear
+    2300026: Ku_star_engine01
+    2300028: Ku_star_engine02
+    2300030: Ku_star_fan
+    2300032: Ku_star_spike
+    2300034: Ku_star_spikemount
+    3300000: baydoor_a
+    3300002: baydoor_b
+    3300004: Ku_battleship
+    3300006: Ku_cntrltwr
+    3300008: Ku_engine
+    3300010: Ku_front
+    3300012: Ku_nose
+    3300014: Ku_port_engine01
+    3300016: Ku_port_engine02
+    3300018: Ku_port_fan
+    3300020: Ku_port_spike
+    3300022: Ku_port_spikemount
+    3300024: Ku_rear
+    3300026: Ku_star_engine01
+    3300028: Ku_star_engine02
+    3300030: Ku_star_fan
+    3300032: Ku_star_spike
+    3300034: Ku_star_spikemount
+    4300000: Ku_battleship
+    4300002: Ku_star_spike
+    4300004: Ku_star_spikemount
+    4300006: Ku_star_fan
+    4300008: Ku_star_engine02
+    4300010: Ku_star_engine01
+    4300012: Ku_rear
+    4300014: Ku_port_spike
+    4300016: Ku_port_spikemount
+    4300018: Ku_port_fan
+    4300020: Ku_port_engine02
+    4300022: Ku_port_engine01
+    4300024: Ku_nose
+    4300026: Ku_front
+    4300028: Ku_engine
+    4300030: Ku_cntrltwr
+    4300032: baydoor_b
+    4300034: baydoor_a
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
